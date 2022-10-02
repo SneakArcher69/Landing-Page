@@ -1,0 +1,39 @@
+/* * {
+    border: 1px solid #00f;
+
+
+} */
+
+body {
+    background-color: #1f2937;
+}
+
+.top {
+    display: flex;
+    justify-content: space-around;
+    align-items: center
+}
+
+.logo img {
+    height: 40px;
+    width: auto;
+}
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.links:hover {
+    color: #cacaca;
+    transition: .4s all;
+}
+
+.cars {
+    width: 400px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center
+}
+
+
