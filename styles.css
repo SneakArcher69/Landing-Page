@@ -47,6 +47,7 @@ a {
     flex-direction: row;
     color: #ffffff;
     justify-content: space-around;
+    align-items: flex-start;
 }
 
 .big {
@@ -75,8 +76,8 @@ a {
 
 .main-image img{
     height: auto;
-    width: 500px;
-    margin-right: 95px;
+    width: 600px;
+    margin-right: 60px;
     border-radius: 5px;
 }
 
