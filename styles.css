@@ -16,7 +16,7 @@ body {
 .logo img {
     height: 40px;
     width: auto;
-    margin-left: -40px;
+    margin-left: -30px;
 }
 
 a {
@@ -33,6 +33,7 @@ a {
     width: 400px;
     display: flex;
     justify-content: space-around;
+    margin-right: -47px;
 }
 
 .links {
@@ -75,8 +76,8 @@ a {
 }
 
 .main-image img{
-    height: auto;
-    width: 600px;
+    height: 260px;
+    width: auto;
     margin-right: 60px;
     border-radius: 5px;
 }
